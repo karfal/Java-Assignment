@@ -5,12 +5,14 @@ Here is my 2nd year degree OOP assignment.
 These are the specs on which the app was to be created:
 
 When a customer asks FlexBox to quote a price for an order they specify the following:
+
 • The size of the box (width, length, and height);
 • The grade of card;
 • Whether they want any colour printing (no colour, or 1, or 2 colour printing);
 • Whether they want any bottom and/or corner reinforcement;
 • Whether the box has a sealable top;
 • The quantity of boxes.
+
 From this information, the order system should determine if the type of box requested can be supplied by FlexBox; if it
 cannot, the system should display an appropriate message and reject the order. If the ordered box/boxes correspond to
 any of the types given in Table 1, and can be supplied by FlexBox, the cost of the order must be calculated and quoted.
